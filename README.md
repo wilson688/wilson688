@@ -1,5 +1,15 @@
+```python
+import datetime
+
+# Get the current year
+current_year = datetime.datetime.now().year
+start_year = 2018
+no_of_years = current_year - start_year
+```
+
 # <code style="color : orangered">Hey there!</code>
-<code style="color : orangered">I am Software Developer with over 5 years of experience. Please check out my profiles below</code>
+<code style="color : orangered">I am Software Developer with {{no_of_years}} years of experience. Please check out my profiles below</code>
+![](https://github.com/wilson688/wilson688/blob/main/docs/pics/fate.gif)
 
 
 [![](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sowmya-wilson/)
